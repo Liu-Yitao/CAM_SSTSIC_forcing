@@ -14,7 +14,7 @@ the need for this can be seen in Sheng & Zwiers (1998) paper.
 - cftime
 - matplotlib
 
-python packages can be installed by conda
+python packages can be installed via conda
 ```bash
 conda install numpy scipy xarray netcdf4 cftime matplotlib
 ```
